@@ -1,0 +1,43 @@
+POLÍTICA GENERAL DE SEGURIDAD DE LA INFORMACIÓN
+
+Jose Luis Cordero Llanos
+Ing. de Sistemas
+korderao@gmail.com
+@korderao
+
+* - OBJETIVO
+	Establecer las directrices, lineamientos de seguridad de la Información, a través de la 
+	implementación, mantenimiento y mejora del Sistema de Gestión de la Información. 
+	
+	Aplicando los requisitos de la Norma ISO/IEC 27001:2022. 
+
+  - ALCANCE Y APLICABILIDAD
+	Esta política se aplica a todo el personal de la 	Fiscalía General del Estado y a externos
+	que presten servicios a la Institución. 
+
+	Es aplicable a todo activo de información de la 	organización, de manera que la no inclusión
+	explícita en el presente documento, no constituye 	argumento para no proteger estos activos 
+	de información. 
+	
+	La política cubre toda información independientemente 	del medio (física o digital).
+
+* COMPONENTES LOGICOS SOFTWARE
+- SOFTWARE BASE O SISTEMA OPERATIVO
+	WINDOWS, GNU/LINUX, MacOS
+- SOFTWARE DE APLICACIONES
+	word, excel, power point
+- USO DEL TECLADO
+	Teclas Funcion
+	Teclas de Control
+	Teclas de Navegacion
+	Teclas alfanumericas
+	Teclas numericas
+	teclas macros
+- USO DEL MOUSE
+	boton izquierdo
+	boton derecho
+	ruda de desplazamiento
+	botones macros
+* MINI PC 
+	raspberry
+	
